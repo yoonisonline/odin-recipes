@@ -1,0 +1,21 @@
+* {
+    font-family: 'Courier New', Courier, monospace;
+    background-color: bisque;
+}
+
+.mainpage {
+    text-align: center;
+}
+
+.mainpage img {
+    height: auto;
+    width: 400px;
+}
+
+.mainpage h1 {
+    color: rgb(236, 120, 120);
+}
+
+ul li {
+    color: rgb(150, 63, 63);
+}
