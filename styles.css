@@ -14,8 +14,31 @@
 
 .mainpage h1 {
     color: rgb(236, 120, 120);
+    font-size: 50px;
+    display: inline-block;
+    border-bottom: 5px dashed rgb(236, 120, 120);
 }
+
+
 
 ul li {
     color: rgb(150, 63, 63);
+}
+
+.mainpage .content {
+    display: block;
+}
+
+
+.recipes-icons {
+    display: inline-block;
+    margin: 50px;
+}
+
+.recipe-content {
+    padding: 20px 50px;
+}
+
+.gomain {
+    padding: 20px;
 }
